@@ -7,4 +7,4 @@ directory
 
 analysis.R - A plot is generated and saved in the figs directory.
 
-try by jeromeian
+try by jerome
